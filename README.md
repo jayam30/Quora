@@ -10,3 +10,8 @@ Framework: None (Pure Java)
 IDE: Eclipse/IntelliJ IDEA (recommended)
 
 Build Tool: N/A (standard Java project structure)
+Sample-main/
+ ├── Question.java
+ ├── Answer.java
+ ├── User.java
+ ├── Main.java
